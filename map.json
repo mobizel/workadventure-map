@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/..\/..\/..\/Downloads\/workadventure-map-6cd0fa86ee49e2d701cc5eb8a67fd49916b160cd\/map.json"
+         "target":"map.json"
         }
     },
  "height":34,
@@ -32,7 +32,7 @@
          "height":34,
          "id":81,
          "name":"Bell zone",
-         "opacity":0.92,
+         "opacity":1,
          "properties":[
                 {
                  "name":"playAudio",
